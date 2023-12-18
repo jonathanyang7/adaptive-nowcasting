@@ -10,8 +10,8 @@ Analysis on if Google Trends data can improve nowcasts of tourism statistics, bu
 
 ## Reflection
 
-This was a project built for my Big Data Analytics module at Warwick Business School which received a mark of 92% (top of the class). 
+This project, completed for my Big Data Analytics module at Warwick Business School, received a top-of-the-class mark of 92%.
 
-The project goal was to propose a research question which I could answer by analysing widely available datasets with my data science skills. Namely, choosing a relevant data, processing it into a form that I could analyse, carrying out the statistical analysis, and producing relevant visualisations to illustrate your results. The rationale, methodology, and findings of my project were written up into a c.2k report (in 03. Report). 
+The main objective of the project was to formulate a research question that could be addressed through the analysis of widely available datasets, utilizing my data science skills. This involved selecting relevant data, processing it for analysis, conducting statistical analysis, and generating visualizations to effectively communicate the results. The entire process, including the rationale, methodology, and findings, was documented in a comprehensive report of approximately 2,000 words (see Section 03: Report).
 
-Learnings: ![image](https://github.com/jonathanyang7/adaptive-nowcasting/assets/121763064/5191e265-b5c8-4d49-84c6-96cac8f40167)
+One of my key learnings from this project was the critical importance of clear and engaging communication, both in written and visual forms. Following a few days of research on data stories, I've since learnt the significance of creating a compelling storyline to guide the reader through the data (and importance of thinking this through before visualising and presenting all my analyses). I've continued to implement this story-first approach to all my projects and am continually practising this as a strategy consultant.
