@@ -9,7 +9,7 @@ Analysis on if Google Trends data can improve nowcasts of tourism statistics, bu
 #### Example:   
 
 ![image](https://github.com/jonathanyang7/adaptive-nowcasting/blob/[main]/03.%20Report/ARIMA_results_Tower_of_London.png?raw=true)
-![alt text](https://github.com/jonathanyang7/adaptive-nowcasting/blob/[main]/03.%20Report/ARIMA_results_Tower_of_London.png?raw=true)
+![alt text](https://github.com/jonathanyang7/adaptive-nowcasting/blob/34b3f98e1aa21c2de4bfc469b4ff9e1a9cb11628/03.%20Report/ARIMA_results_Tower_of_London.png?raw=true)
 
 [ PRETEND OTHER SCREEN SHOT IS HERE ]  
 
