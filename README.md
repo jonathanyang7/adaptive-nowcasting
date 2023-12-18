@@ -8,6 +8,8 @@ Analysis on if Google Trends data can improve nowcasts of tourism statistics, bu
 
 ![alt text](https://github.com/jonathanyang7/adaptive-nowcasting/blob/34b3f98e1aa21c2de4bfc469b4ff9e1a9cb11628/03.%20Report/ARIMA_results_Tower_of_London.png?raw=true)
 
+replace ![image](https://github.com/jonathanyang7/adaptive-nowcasting/blob/34b3f98e1aa21c2de4bfc469b4ff9e1a9cb11628/03.%20Report/ARIMA_results_Tower_of_London.png?raw=true) with <img src="[https://your-image-url.type](https://github.com/jonathanyang7/adaptive-nowcasting/blob/34b3f98e1aa21c2de4bfc469b4ff9e1a9cb11628/03.%20Report/ARIMA_results_Tower_of_London.png?raw=true)" width="100" height="100">
+
 ## Reflection
 
 This project, completed for my Big Data Analytics module at Warwick Business School, received a top-of-the-class mark of 92%.
