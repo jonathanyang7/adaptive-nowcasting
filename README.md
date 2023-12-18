@@ -2,7 +2,7 @@
 
 Now or Never 
 
-Analysis on if Google Trends data can improve nowcasts of tourism statistics, built with R and numerous statistical concepts (ARIMA, Kendall's Tau, Shapiro-Wilk).
+Analysis on if Google Trends data can improve nowcasts of tourism statistics, built with R and statistical concepts (ARIMA, Kendall's Tau, Shapiro-Wilk).
 
 ## Project Screen Shot
 
