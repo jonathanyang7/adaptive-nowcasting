@@ -1,4 +1,4 @@
-## Project Name & Pitch
+## Project Name & Description
 
 Now or Never 
 
