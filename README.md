@@ -1,6 +1,6 @@
 ## Project Name & Description
 
-Now or Never 
+Adaptive nowcasting
 
 Analysis on if Google Trends data can improve nowcasts of tourism statistics, built with R and statistical concepts (ARIMA, Kendall's Tau, Shapiro-Wilk).
 
